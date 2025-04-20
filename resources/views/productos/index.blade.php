@@ -39,7 +39,7 @@
             @endforeach
         </tbody>
     </table>
-    <a href="{{ route('productos.create') }}">Editar Producto</a>
+    <a href="{{ route('productos.create') }}">Crear Producto</a>
     
 </body>
 </html>
